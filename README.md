@@ -1,2 +1,2 @@
 # Welcome to my portfolio!!
-## Angel David Ortiz Flores
+Here you will find some of the projects I had worked on ever since i became a data scientist
