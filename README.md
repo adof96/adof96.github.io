@@ -32,9 +32,9 @@ We will work as an analyst for the telecom operator Megaline. The company offers
 - Step 4. Test the hypotheses
 - Step 5. General conclusion
   
-![Some visualizations we obtained](https://github.com/adof96/adof96.github.io/blob/main/Ima/Figure_7.png)
-![Some visualizations we obtained](https://github.com/adof96/adof96.github.io/blob/main/Ima/Figure_8.png)
-![Some visualizations we obtained](https://github.com/adof96/adof96.github.io/blob/main/Ima/Figure_9.png)
+![Some visualizations we obtained](Ima/Figure_7.png)
+![Some visualizations we obtained](Ima/Figure_8.png)
+![Some visualizations we obtained](Ima/Figure_9.png)
 
 ## [Project Megaline_2](https://github.com/adof96/Megaline_2)
 ### Tools
