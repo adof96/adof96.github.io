@@ -1,4 +1,5 @@
 # HI!! My name is Angel and here you will find some of the projects that I have made :) .
+![foto de perfil(Ima/foto perfil.jpeg)
 
 ## [Project Betabank](https://github.com/adof96/Proyecto_Betabank)
 ### Tools
